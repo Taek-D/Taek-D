@@ -26,7 +26,7 @@ Next.js·TypeScript와 Supabase(PostgreSQL)로 기획부터 배포·운영까지
 | [focus-valley](https://github.com/Taek-D/focus-valley) | 집중하면 식물이 자라는 뽀모도로 타이머. 충돌 해소를 포함한 클라우드 동기화, 오프라인 PWA, 3개 언어 | React 19, Supabase, Web Worker, Playwright | [라이브](https://focus-valley.vercel.app) |
 | [plugin-advisor](https://github.com/Taek-D/plugin-advisor) | PRD·README를 넣으면 Claude Code 플러그인 조합을 추천하고 점수화. 제안 접수와 관리자 검토 흐름 | Next.js 14, Supabase, Vitest | [라이브](https://plugin-advisor.vercel.app) |
 | [Funnel & Retention Explorer](https://github.com/Taek-D/funnel-retention-explorer) | CSV를 올리면 퍼널·코호트 리텐션·세그먼트를 분석하는 대시보드. 회원 인증과 클라우드 저장 | React 19, Supabase, Recharts | [라이브](https://fre-analytics.vercel.app) |
-| [kbo_appintoss](https://github.com/Taek-D/kbo_appintoss) | KBO 경기 알림 토스 미니앱 | Next.js, Supabase | [라이브](https://kbogame.vercel.app) |
+| [CMS_Demo](https://github.com/Taek-D/CMS_Demo) | 어린이집 수납 CRM 데모. 학부모용 모바일 웹과 관리자 CRM을 나누고, 자동이체 배치 출금·미납 관리·거래명세표 엑셀을 구현. 계좌번호는 AES-256으로 암호화 | Next.js 16, Supabase(RLS), Vitest, Playwright | 저장소 |
 | [egov-asset-mgmt](https://github.com/Taek-D/egov-asset-mgmt) | 공공기관형 비품·자산 관리. 신청 → 승인 → 지급 결재 흐름과 행 잠금 기반 동시 처리 | Java 17, Spring 6, MyBatis, MySQL, Docker | 저장소 |
 | [datalens](https://github.com/Taek-D/datalens) | CSV·JSON을 올리면 분포·상관관계·이상값을 자동 탐색. 프런트와 백엔드 분리, PR마다 CI | React 19, FastAPI, pandas, GitHub Actions | [라이브](https://datalens-tau.vercel.app) |
 
