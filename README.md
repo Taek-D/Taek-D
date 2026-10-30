@@ -32,7 +32,7 @@ Next.js·TypeScript와 Supabase(PostgreSQL)로 기획부터 배포·운영까지
 
 ## 오픈소스 기여
 
-- [eGovFramework/egovframe-common-components #1388](https://github.com/eGovFramework/egovframe-common-components/pull/1388): MySQL 초기화 스크립트의 문자셋을 utf8mb4로 고정해 한글 이중 인코딩과 로그인 collation 충돌을 수정 (검토 중)
+- [eGovFramework/egovframe-common-components #1388](https://github.com/eGovFramework/egovframe-common-components/pull/1388): MySQL 초기화 스크립트의 문자셋을 utf8mb4로 고정해 한글 이중 인코딩과 로그인 collation 충돌을 수정 (2026-10 병합)
 
 ## 연락
 
